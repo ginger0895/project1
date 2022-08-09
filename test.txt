@@ -1,1 +1,1 @@
-Hi this is mounish, i am ur devops trainer, in the present session we are learning git concepts
+Hi this is mounish, i am ur devops trainer, in the present session we are learning git concepts, we are trying to understand merge conecpts
